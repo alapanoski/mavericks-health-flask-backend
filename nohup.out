@@ -1,0 +1,178 @@
+Traceback (most recent call last):
+  File "/home/project2/.local/bin/jupyter-notebook", line 5, in <module>
+    from notebook.notebookapp import main
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/notebookapp.py", line 57, in <module>
+    raise ImportError(_("The Jupyter Notebook requires tornado >= 5.0, but you have %s") % tornado.version)
+ImportError: The Jupyter Notebook requires tornado >= 5.0, but you have 4.3
+Traceback (most recent call last):
+  File "/home/project2/.local/bin/jupyter-notebook", line 5, in <module>
+    from notebook.notebookapp import main
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/notebookapp.py", line 57, in <module>
+    raise ImportError(_("The Jupyter Notebook requires tornado >= 5.0, but you have %s") % tornado.version)
+ImportError: The Jupyter Notebook requires tornado >= 5.0, but you have 4.3
+Traceback (most recent call last):
+  File "/home/project2/.local/bin/jupyter-notebook", line 5, in <module>
+    from notebook.notebookapp import main
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/notebookapp.py", line 57, in <module>
+    raise ImportError(_("The Jupyter Notebook requires tornado >= 5.0, but you have %s") % tornado.version)
+ImportError: The Jupyter Notebook requires tornado >= 5.0, but you have 4.3
+Traceback (most recent call last):
+  File "/home/project2/.local/bin/jupyter-notebook", line 5, in <module>
+    from notebook.notebookapp import main
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/notebookapp.py", line 57, in <module>
+    raise ImportError(_("The Jupyter Notebook requires tornado >= 5.0, but you have %s") % tornado.version)
+ImportError: The Jupyter Notebook requires tornado >= 5.0, but you have 4.3
+Traceback (most recent call last):
+  File "/home/project2/.local/bin/jupyter-notebook", line 5, in <module>
+    from notebook.notebookapp import main
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/notebookapp.py", line 57, in <module>
+    raise ImportError(_("The Jupyter Notebook requires tornado >= 5.0, but you have %s") % tornado.version)
+ImportError: The Jupyter Notebook requires tornado >= 5.0, but you have 4.3
+Traceback (most recent call last):
+  File "/home/project2/.local/bin/jupyter-notebook", line 5, in <module>
+    from notebook.notebookapp import main
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/notebookapp.py", line 57, in <module>
+    raise ImportError(_("The Jupyter Notebook requires tornado >= 5.0, but you have %s") % tornado.version)
+ImportError: The Jupyter Notebook requires tornado >= 5.0, but you have 4.3
+Traceback (most recent call last):
+  File "/home/project2/.local/bin/jupyter-notebook", line 5, in <module>
+    from notebook.notebookapp import main
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/notebookapp.py", line 57, in <module>
+    raise ImportError(_("The Jupyter Notebook requires tornado >= 5.0, but you have %s") % tornado.version)
+ImportError: The Jupyter Notebook requires tornado >= 5.0, but you have 4.3
+Traceback (most recent call last):
+  File "/home/project2/.local/bin/jupyter-notebook", line 5, in <module>
+    from notebook.notebookapp import main
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/notebookapp.py", line 57, in <module>
+    raise ImportError(_("The Jupyter Notebook requires tornado >= 5.0, but you have %s") % tornado.version)
+ImportError: The Jupyter Notebook requires tornado >= 5.0, but you have 4.3
+Traceback (most recent call last):
+  File "/home/project2/.local/bin/jupyter-notebook", line 5, in <module>
+    from notebook.notebookapp import main
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/notebookapp.py", line 57, in <module>
+    raise ImportError(_("The Jupyter Notebook requires tornado >= 5.0, but you have %s") % tornado.version)
+ImportError: The Jupyter Notebook requires tornado >= 5.0, but you have 4.3
+[I 18:41:28.178 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.6.1
+[I 18:41:28.181 NotebookApp] Serving notebooks from local directory: /home/project2/extras/temp/jupiter-explorations/SpeechToTextHack
+[I 18:41:28.181 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 18:41:28.181 NotebookApp] http://14.139.184.220:8888/
+[I 18:41:28.181 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 18:41:32.652 NotebookApp] 404 GET /api/contents/SpeechToTextHack?type=directory&_=1681562501374 (223.186.53.231): file or directory does not exist: 'SpeechToTextHack'
+[W 18:41:32.652 NotebookApp] file or directory does not exist: 'SpeechToTextHack'
+[W 18:41:32.653 NotebookApp] 404 GET /api/contents/SpeechToTextHack?type=directory&_=1681562501374 (223.186.53.231) 2.980000ms referer=http://ws.mec.ac.in:8888/tree/SpeechToTextHack
+[I 18:41:37.411 NotebookApp] 302 GET / (223.186.53.231) 1.070000ms
+[W 18:41:44.797 NotebookApp] 404 GET /static/components/marked/lib/marked.js?v=20230415184128 (223.186.53.231) 12.000000ms referer=http://ws.mec.ac.in:8888/tree?
+[W 18:41:50.296 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 18:41:50.982 NotebookApp] Kernel started: 9f9fa0ea-42d0-4688-bc79-bb48c5196315, name: python3
+[I 18:43:52.618 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:44:44.357 NotebookApp] 302 GET / (223.186.53.231) 1.100000ms
+[W 18:44:56.752 NotebookApp] 404 GET /static/components/marked/lib/marked.js?v=20230415184128 (223.186.53.231) 3.290000ms referer=http://ws.mec.ac.in:8888/tree?
+[I 18:45:11.050 NotebookApp] Kernel interrupted: 9f9fa0ea-42d0-4688-bc79-bb48c5196315
+[I 18:45:54.420 NotebookApp] Saving file at /Untitled.ipynb
+/home/project2/.local/lib/python3.9/site-packages/nbformat/__init__.py:129: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/project2/.local/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[E 18:46:52.740 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+      File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+      File "/home/project2/.local/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/home/project2/.local/lib/python3.9/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 339, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 1086, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 1061, in _write_frame
+        return self.stream.write(frame)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/iostream.py", line 540, in write
+        self._write_buffer.append(data)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/iostream.py", line 157, in append
+        b += data  # type: ignore
+    BufferError: Existing exports of data: object cannot be re-sized
+[E 18:46:52.753 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 621, in _handle_events
+        self._handle_recv()
+      File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 650, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+      File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+      File "/home/project2/.local/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/home/project2/.local/lib/python3.9/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 339, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 1086, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 1061, in _write_frame
+        return self.stream.write(frame)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/iostream.py", line 540, in write
+        self._write_buffer.append(data)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/iostream.py", line 157, in append
+        b += data  # type: ignore
+    BufferError: Existing exports of data: object cannot be re-sized
+Exception in callback BaseAsyncIOLoop._handle_events(32, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(32, 1)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/project2/.local/lib/python3.9/site-packages/tornado/platform/asyncio.py", line 206, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 621, in _handle_events
+    self._handle_recv()
+  File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 650, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+    f = callback(*args, **kwargs)
+  File "/home/project2/.local/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+    return callback(self, msg)
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+    super()._on_zmq_reply(stream, msg)
+  File "/home/project2/.local/lib/python3.9/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 339, in write_message
+    return self.ws_connection.write_message(message, binary=binary)
+  File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 1086, in write_message
+    fut = self._write_frame(True, opcode, message, flags=flags)
+  File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 1061, in _write_frame
+    return self.stream.write(frame)
+  File "/home/project2/.local/lib/python3.9/site-packages/tornado/iostream.py", line 540, in write
+    self._write_buffer.append(data)
+  File "/home/project2/.local/lib/python3.9/site-packages/tornado/iostream.py", line 157, in append
+    b += data  # type: ignore
+BufferError: Existing exports of data: object cannot be re-sized
+[I 18:47:52.803 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:49:32.176 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:ca087cb5b62846c8b94523d0eab70382
+[I 18:49:34.844 NotebookApp] Kernel restarted: 9f9fa0ea-42d0-4688-bc79-bb48c5196315
+[I 18:49:35.365 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:ca087cb5b62846c8b94523d0eab70382
+[I 18:49:35.545 NotebookApp] Replaying 400 buffered messages
+[I 18:49:51.521 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:51:54.586 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:53:51.413 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:59:51.538 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:00:59.115 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:ca087cb5b62846c8b94523d0eab70382
+[I 19:01:01.779 NotebookApp] Kernel restarted: 9f9fa0ea-42d0-4688-bc79-bb48c5196315
+[I 19:01:02.594 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:ca087cb5b62846c8b94523d0eab70382
+[I 19:01:02.798 NotebookApp] Replaying 6 buffered messages
+[I 19:01:51.555 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:02:39.461 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:ca087cb5b62846c8b94523d0eab70382
+[I 19:02:39.736 NotebookApp] Kernel restarted: 9f9fa0ea-42d0-4688-bc79-bb48c5196315
+[I 19:02:40.345 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:ca087cb5b62846c8b94523d0eab70382
+[I 19:02:40.351 NotebookApp] Replaying 3 buffered messages
+[I 19:03:55.939 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:05:54.803 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:07:53.123 NotebookApp] Saving file at /Untitled.ipynb
+[W 19:09:40.376 NotebookApp] WebSocket ping timeout after 117589 ms.
+[I 19:09:45.383 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:ca087cb5b62846c8b94523d0eab70382
+[I 19:18:22.049 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:41:48.877 NotebookApp] Saving file at /Untitled.ipynb
+[W 20:41:50.276 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 20:43:52.638 NotebookApp] Saving file at /Untitled.ipynb
