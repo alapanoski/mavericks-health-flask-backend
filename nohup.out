@@ -176,3 +176,95 @@ BufferError: Existing exports of data: object cannot be re-sized
 [I 20:41:48.877 NotebookApp] Saving file at /Untitled.ipynb
 [W 20:41:50.276 NotebookApp] Notebook Untitled.ipynb is not trusted
 [I 20:43:52.638 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:03:22.559 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:03:25.522 NotebookApp] Kernel restarted: 9f9fa0ea-42d0-4688-bc79-bb48c5196315
+[I 21:03:27.265 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:03:27.768 NotebookApp] Replaying 6 buffered messages
+[I 21:03:51.654 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:05:55.176 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:13:54.911 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:15:56.585 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:17:56.292 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:19:59.569 NotebookApp] Saving file at /Untitled.ipynb
+[W 21:23:57.296 NotebookApp] WebSocket ping timeout after 101189 ms.
+[I 21:24:02.301 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:24:49.868 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:24:50.279 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[W 21:24:50.280 NotebookApp] zmq message arrived on closed channel
+[I 21:25:54.268 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:25:59.248 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:25:59.753 NotebookApp] Replaying 2 buffered messages
+[I 21:26:10.124 NotebookApp] Saving file at /Untitled.ipynb
+[W 21:26:10.256 NotebookApp] Replacing stale connection: 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:10.367 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:10.369 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:10.524 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[W 21:26:10.526 NotebookApp] zmq message arrived on closed channel
+[I 21:26:11.914 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:12.073 NotebookApp] Replaying 2 buffered messages
+[W 21:26:18.687 NotebookApp] Replacing stale connection: 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:18.820 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:18.822 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:19.054 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:20.065 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:20.260 NotebookApp] Replaying 3 buffered messages
+[W 21:26:50.213 NotebookApp] Replacing stale connection: 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:52.758 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:52.760 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[W 21:26:52.894 NotebookApp] Replacing stale connection: 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[E 21:26:52.931 NotebookApp] Uncaught exception GET /api/kernels/9f9fa0ea-42d0-4688-bc79-bb48c5196315/channels?session_id=33679305888d48c28df7f9ae39c0ec46 (223.186.53.231)
+    HTTPServerRequest(protocol='http', host='ws.mec.ac.in:8888', method='GET', uri='/api/kernels/9f9fa0ea-42d0-4688-bc79-bb48c5196315/channels?session_id=33679305888d48c28df7f9ae39c0ec46', version='HTTP/1.1', remote_ip='223.186.53.231')
+    Traceback (most recent call last):
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/web.py", line 1713, in _execute
+        result = await result
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/gen.py", line 776, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/project2/.local/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 377, in get
+        yield super().get(kernel_id=kernel_id)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/gen.py", line 769, in run
+        value = future.result()
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/gen.py", line 776, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/project2/.local/lib/python3.9/site-packages/notebook/base/zmqhandlers.py", line 293, in get
+        yield maybe_future(res)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/gen.py", line 769, in run
+        value = future.result()
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/gen.py", line 776, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/project2/.local/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 355, in pre_get
+        yield self._register_session()
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/gen.py", line 769, in run
+        value = future.result()
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/home/project2/.local/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 391, in _register_session
+        yield stale_handler.close()
+      File "/home/project2/.local/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 575, in close
+        super().close()
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 485, in close
+        self.ws_connection.close(code, reason)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 1263, in close
+        self._write_frame(True, 0x8, close_data)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/websocket.py", line 1061, in _write_frame
+        return self.stream.write(frame)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/iostream.py", line 540, in write
+        self._write_buffer.append(data)
+      File "/home/project2/.local/lib/python3.9/site-packages/tornado/iostream.py", line 157, in append
+        b += data  # type: ignore
+    BufferError: Existing exports of data: object cannot be re-sized
+[E 21:26:52.948 NotebookApp] {
+      "Host": "ws.mec.ac.in:8888",
+      "Accept": "*/*",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0"
+    }
+[E 21:26:52.948 NotebookApp] 500 GET /api/kernels/9f9fa0ea-42d0-4688-bc79-bb48c5196315/channels?session_id=33679305888d48c28df7f9ae39c0ec46 (223.186.53.231) 55.700000ms referer=None
+[I 21:26:52.949 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:26:56.890 NotebookApp] Restoring connection for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[W 21:29:26.920 NotebookApp] WebSocket ping timeout after 119664 ms.
+[I 21:29:31.927 NotebookApp] Starting buffering for 9f9fa0ea-42d0-4688-bc79-bb48c5196315:33679305888d48c28df7f9ae39c0ec46
+[I 21:52:54.861 NotebookApp] 302 GET / (64.226.82.186) 35.740000ms
+[I 23:59:54.160 NotebookApp] 302 GET / (3.92.166.170) 0.870000ms
+[I 23:59:54.420 NotebookApp] 302 GET /tree (3.92.166.170) 2.150000ms
+[I 02:54:20.982 NotebookApp] 302 GET / (223.186.53.243) 10.880000ms
+[W 02:54:22.849 NotebookApp] 404 GET /static/components/marked/lib/marked.js?v=20230415184128 (223.186.53.243) 3.190000ms referer=http://ws.mec.ac.in:8888/tree?
+[I 10:10:41.943 NotebookApp] 302 GET / (192.241.215.17) 35.850000ms
